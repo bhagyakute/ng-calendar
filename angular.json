@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-calendar"
+    }
+  },
+  "defaultProject": "ng-calendar",
+  "cli": {
+    "analytics": "c2006016-4981-4624-866d-0080f2586d4e"
+  }
 }
